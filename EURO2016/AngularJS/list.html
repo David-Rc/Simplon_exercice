@@ -1,0 +1,10 @@
+    <ul>
+        <li ng-repeat="group in competition.groups">
+                Group {{group.id}}
+            <ul>
+                <li ng-repeat="team in group.teams">
+                        {{team}}
+                </li>
+            </ul>
+        </li>
+    </ul>
