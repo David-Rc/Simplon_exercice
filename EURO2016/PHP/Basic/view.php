@@ -3,16 +3,14 @@
 class View{
 
 
-    function viewArrayList($array, $value, $value2=null)
+    function viewGroupsList($array, $value, $value2=null)
     {
 
         for($i = 0; $i <= count($array) - 1; $i++){
         
             $result = $array[$i][$value];
-            
-
             echo "<li>";
-            echo "<a href='#/".$result."'>";
+            echo "<b>Groupe : </b><span><a href=match.php?id=".$result."></span>";
             echo $result;
             echo "</a>";
         if($value2 != null){

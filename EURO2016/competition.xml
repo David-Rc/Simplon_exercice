@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<competition>
+	<name>Euro 2016</name>
+	<groups>
+		<id>A</id>
+		<teams>France</teams>
+		<teams>Roumanie</teams>
+		<teams>Albanie</teams>
+		<teams>Suisse</teams>
+	</groups>
+	<groups>
+		<id>B</id>
+		<teams>Angleterre</teams>
+		<teams>Russie</teams>
+		<teams>Pays de Galles</teams>
+		<teams>Slovaquie</teams>
+	</groups>
+	<groups>
+		<id>C</id>
+		<teams>Allemagne</teams>
+		<teams>Ukraine</teams>
+		<teams>Pologne</teams>
+		<teams>Irlande du Nord</teams>
+	</groups>
+	<groups>
+		<id>D</id>
+		<teams>Espagne</teams>
+		<teams>Rép.Tchéque</teams>
+		<teams>Turquie</teams>
+		<teams>Croatie</teams>
+	</groups>
+	<groups>
+		<id>E</id>
+		<teams>Belgique</teams>
+		<teams>Italie</teams>
+		<teams>Rép. d'Irlande</teams>
+		<teams>Suède</teams>
+	</groups>
+	<groups>
+		<id>F</id>
+		<teams>Portugal</teams>
+		<teams>Islande</teams>
+		<teams>Autriche</teams>
+		<teams>Hongrie</teams>
+	</groups>
+</competition>
